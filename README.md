@@ -1,6 +1,6 @@
 # Previsões de resultados de jogos da fase de grupos da Copa do Mundo FIFA 2022
 
-<a href="https://github.com/data-science101/previsoes-fase-grupos-copa-do-mundo-2022/blob/main/wc22.ipynb">Notebook Jupyter</a> simples com utilização de PyCaret para comparar modelos de classificação usando a variável y como Resultado Home (Resultado do time Home, win, loss ou draw).
+<a href="https://github.com/data-science101/previsoes-fase-grupos-copa-do-mundo-2022/blob/main/wc22.ipynb">Notebook Jupyter</a> simples com utilização de PyCaret para comparar modelos de classificação usando a variável y como Resultado Home (Win, loss ou draw).
 
 <b>Previsões (16/11/2022):</b>
 * Qatar x Ecuador: Vencedor - Ecuador
